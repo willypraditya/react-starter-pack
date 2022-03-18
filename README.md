@@ -40,6 +40,3 @@
 └── utils
     Reusable helper functions
 ```
-
-#### Problems
-- POST join-class endpoint always returns error.
